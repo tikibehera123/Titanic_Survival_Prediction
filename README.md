@@ -1,9 +1,11 @@
 # Titanic Survival Prediction
 
 An interactive educational web application demonstrating machine learning concepts using the famous Titanic dataset.
-
-![Titanic ML Project](https://images.unsplash.com/photo-1599422314077-f4dfdaa4cd09?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-
+screenshot
+![{13311E50-0844-4105-A695-18C72E63A47A}](https://github.com/user-attachments/assets/79a7b348-bec6-401c-8eaf-e307dab21976)
+![{D770D130-9A9B-4D06-80C5-A33EDDED3A1E}](https://github.com/user-attachments/assets/af47c0e0-aaa1-4e6b-b22d-b835a64d3036)
+![{FA186FEF-75FB-40B5-B86D-1A0D50D97EE6}](https://github.com/user-attachments/assets/7d38c7f2-f804-4365-b9df-a7a683a3f436)
+![{BF2EDF96-61B4-4458-A6C6-58BF71DA6C2D}](https://github.com/user-attachments/assets/1a7e763a-147f-4019-b435-74465b9057f8)
 ## Overview
 
 This application walks users through the process of predicting Titanic passenger survival using two different machine learning models: Linear Regression and Decision Trees. The project serves as an educational tool to understand key concepts in data science and machine learning.
